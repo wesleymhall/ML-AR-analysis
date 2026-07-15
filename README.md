@@ -2,18 +2,17 @@
 
 **Tools:** Python | Jupyter Notebook | Machine Learning (KMeans, Linear Regression)
 
-This project explores customer payment behavior and portfolio optimization by analyzing Accounts Receivable (AR) and profitability data. The goal is to provide actionable insights for management, highlighting high-value customers and identifying potential collection risks.
+This project analyzes customer payment behavior, accounts receivable trends, and profitability data to identify customer segments and payment patterns. The goal is to generate customer-level insights that support collection prioritization and financial decision-making.
 
 ## Features
 
-- **Data Evaluation:** Examined AR and profitability datasets to uncover patterns in customer payment behavior.  
-- **Data Preparation:** Cleaned and transformed raw data for machine learning analysis.  
-- **Customer Segmentation:** Applied KMeans clustering to group customers by value and payment behavior.  
-- **Trend Modeling:** Used linear regression to model payment trends and detect signals of potential collection risks.
+- **Data Aggregation:** Aggregated AR, payment behavior, and profitability data into customer-level KPIs for segmentation analysis.  
+- **Data Preparation:** Cleaned, transformed, and validated financial data to prepare datasets for analysis and machine learning.  
+- **Customer Segmentation:** Applied KMeans clustering to group customers based on profitability, account value, and payment behavior.  
+- **Trend Modeling:** Applied regression analysis to model payment trends over time and identify potential collection risk signals.
 
 ## Objectives
 
-- **Identify high-value customers** who contribute the most to the organization.  
-- **Highlight customers at risk** who may require strategic reconsideration or closer monitoring.  
-- **Demonstrate machine learning** applications for enhancing financial analytics.
-
+- **Identify customer segments** based on profitability, account value, and payment behavior.  
+- **Highlight changing payment patterns** that may require additional monitoring or collection attention.  
+- **Demonstrate machine learning applications** for financial analytics and data-driven decision-making.
